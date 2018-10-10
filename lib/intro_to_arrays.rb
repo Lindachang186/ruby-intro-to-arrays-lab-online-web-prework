@@ -1,2 +1,3 @@
 def instantiate_new_array
-  array = Array.new 
+  array = Array.new
+end 
